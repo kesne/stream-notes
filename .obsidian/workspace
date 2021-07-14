@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "cf47cc7d5028b9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "51096ae935be9636",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "streams/2021-07-14.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2253e9d709d85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ec8963560540de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d89b9a891ec4325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0215d8b903db4c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c12baf54afcc7232",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5bcad131caf1b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d47865085344af5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "streams/2021-07-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8d8a466823509c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "streams/2021-07-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51096ae935be9636",
+  "lastOpenFiles": [
+    "streams/2021-07-14.md"
+  ]
+}
