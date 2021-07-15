@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "51096ae935be9636",
+        "id": "a03f3738fff3fcf6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "streams/2021-07-14.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "streams/2021-07-14.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,21 +85,32 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "streams/2021-07-14.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "fef4d284d285818d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "51096ae935be9636",
+  "active": "a03f3738fff3fcf6",
   "lastOpenFiles": [
-    "streams/2021-07-14.md"
+    "Untitled.md",
+    "Real.Email.md",
+    "streams/2021-07-14.md",
+    "templates/Daily Note.md",
+    "templates/Untitled.md"
   ]
 }

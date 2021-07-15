@@ -1,4 +1,5 @@
 {
   "folder": "streams",
-  "autorun": false
+  "autorun": false,
+  "template": "templates/Daily Note"
 }
