@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "streams/2021-07-18.md",
+            "file": "streams/2021-07-15.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "streams/2021-07-18.md",
+                "file": "streams/2021-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "streams/2021-07-18.md",
+                "file": "streams/2021-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,8 +108,8 @@
   },
   "active": "a03f3738fff3fcf6",
   "lastOpenFiles": [
-    "streams/2021-07-18.md",
     "streams/2021-07-15.md",
+    "streams/2021-07-18.md",
     "streams/2021-07-14.md",
     "Untitled.md",
     "Real.Email.md",
