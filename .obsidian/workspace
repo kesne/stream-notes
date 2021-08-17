@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "streams/2021-07-23.md",
+            "file": "streams/2021-08-17.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "streams/2021-07-23.md",
+                "file": "streams/2021-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "streams/2021-07-23.md",
+                "file": "streams/2021-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +109,7 @@
   },
   "active": "cd3690345c122c84",
   "lastOpenFiles": [
+    "streams/2021-08-17.md",
     "streams/2021-07-23.md",
     "streams/2021-07-15.md",
     "streams/2021-07-18.md",
