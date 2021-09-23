@@ -2,5 +2,10 @@
   "spellcheck": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Ethereum",
+    "Solana",
+    "Crypto"
+  ]
 }
